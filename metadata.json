@@ -1,0 +1,8 @@
+{
+  "name": "SpecForge",
+  "description": "Transform messy university course specifications into structured, accredited course outlines with CO-PO-PSO mappings, defect detection, and multi-role review workflows.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
